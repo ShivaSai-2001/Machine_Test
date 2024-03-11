@@ -19,17 +19,17 @@ License
 Installation
 Clone the Repository:
 
-``bash
+``
  
 git clone https://github.com/your-username/employee-management-mern.git
 Navigate to the Project Directory:
 
-``bash
+``
  
 cd employee-management-mern
 Install Dependencies:
 
-``bash
+``
  
 # Install server dependencies
 npm install
@@ -44,7 +44,7 @@ Set Up Environment Variables:
 Create a .env file in the root directory and configure environment variables (e.g., MongoDB connection string, JWT secret).
 Run the Application:
 
-``bash
+``
  
 # Run the server
 npm run server
