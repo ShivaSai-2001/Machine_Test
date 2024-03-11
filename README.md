@@ -10,27 +10,24 @@ Employee CRUD Operations: Create, Read, Update, and Delete employee records.
 Search and Filter: Search for employees based on various criteria and filter results.
 Interactive UI: Modern and responsive user interface for seamless user experience.
 Table of Contents
-Installation
-Usage
-Technologies Used
-Screenshots
-Contributing
-License
-Installation
-Clone the Repository:
+- Installation
+- Usage
+- Technologies Used
+- Screenshots
+- Contributing
+- License
+- Installation
+- Clone the Repository:
 
-``
+```bash
  
 git clone https://github.com/your-username/employee-management-mern.git
+
 Navigate to the Project Directory:
 
-``
- 
 cd employee-management-mern
 Install Dependencies:
 
-``
- 
 # Install server dependencies
 npm install
 
@@ -43,8 +40,6 @@ Set Up Environment Variables:
 
 Create a .env file in the root directory and configure environment variables (e.g., MongoDB connection string, JWT secret).
 Run the Application:
-
-``
  
 # Run the server
 npm run server
@@ -53,8 +48,8 @@ npm run server
 cd client
 
 # Run the React app
-`` bash
 npm start
+```
 Access the Application:
 Open your browser and go to http://localhost:3000 to access the Employee Management System.
 
@@ -69,11 +64,11 @@ Click on the logout button to securely log out.
 
 ## Technologies Used
 # Frontend:
-React
-Redux (for state management)
-Axios (for API requests)
+- React
+- Redux (for state management)
+- Axios (for API requests)
 
 # Backend:
-Node.js
-Express.js
-MongoDB (using Mongoose)
+- Node.js
+- Express.js
+- MongoDB (using Mongoose)
