@@ -1,4 +1,5 @@
-Employee Management System using MERN Stack
+## Employee Management System using MERN Stack
+
 Project Overview
 This Employee Management System is built using the MERN stack, which consists of MongoDB, Express.js, React, and Node.js. It allows you to manage and organize employee information efficiently.
 
